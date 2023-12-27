@@ -1,4 +1,4 @@
-#include "Koichi_Nakata_Die.h"
+#include "Die.h"
 #include <iostream>
 #include <stdexcept>
 #include <stdlib.h>
