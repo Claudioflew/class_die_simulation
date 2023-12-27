@@ -1,6 +1,6 @@
 // Comment 1: although this is not a big project, we should include "include guard".
-#ifndef KOICHI_NAKATA_DIE
-#define KOICHI_NAKATA_DIE
+#ifndef DIE_H
+#define DIE_H
 
 class Die {
 public:
